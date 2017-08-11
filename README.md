@@ -114,8 +114,5 @@ The above list is just a sample of the more important aspects of KloudRIS.
 ![Lay Letters](http://www.envoyris.website/theme/theme-1/image/gallery/layletters.png)
 ![Organizational GPS Map](http://www.envoyris.website/theme/theme-1/image/gallery/orgmap.png)
 
-Here comes nothing
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/orgmap.png">
-
 # Website
 [KloudRIS](http://envoyris.website)
