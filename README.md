@@ -114,23 +114,5 @@ The above list is just a sample of the more important aspects of KloudRIS.
 ![Lay Letters](http://www.envoyris.website/theme/theme-1/image/gallery/layletters.png)
 ![Organizational GPS Map](http://www.envoyris.website/theme/theme-1/image/gallery/orgmap.png)
 
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/patient-workflow.png" width="250" title="Patient Workflow">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/dashboard.png" width="250" title="Dashboard">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/calendar.png" width="250" title="Calendar Scheduler">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/resource-calendar.png" width="250" title="Resource Calendar">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/exam-color-codes.png" width="250" title="Color Coded Exams">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/tech-worklist.png" width="250" title="Technologist Worklist">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/dictation.png" width="250" title="Dictation interface">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/rad-worklist.png" width="250" title="Dictation Interface">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/procedure-details.png" width="250" title="Dictation Interface">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/billing.png" width="250" title="Billing Status">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/charts.png" width="250" title="Some Admin Chart">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/physician-portal-2.png" width="250" title="Physician Portal">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/physician-portal.png" width="250" title="Physician Portal">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/referrals.png" width="250" title="Order Referrals">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/referral-processing.pn" width="250" title="Order Referrals">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/layletters.png" width="250" title="Lay Letters">
-<img src="http://www.envoyris.website/theme/theme-1/image/gallery/orgmap.pn" width="250" title="Organizational GPS Map">
-
 # Website
 [KloudRIS](http://envoyris.website)
