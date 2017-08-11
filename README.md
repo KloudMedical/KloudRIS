@@ -113,6 +113,7 @@ The above list is just a sample of the more important aspects of KloudRIS.
 ![Order Referrals](http://www.envoyris.website/theme/theme-1/image/gallery/referral-processing.png)
 ![Lay Letters](http://www.envoyris.website/theme/theme-1/image/gallery/layletters.png)
 ![Organizational GPS Map](http://www.envoyris.website/theme/theme-1/image/gallery/orgmap.png)
+<img src="http://www.envoyris.website/theme/theme-1/image/gallery/orgmap.png">
 
 # Website
 [KloudRIS](http://envoyris.website)
