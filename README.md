@@ -115,4 +115,4 @@ The above list is just a sample of the more important aspects of KloudRIS.
 ![Organizational GPS Map](http://www.envoyris.website/theme/theme-1/image/gallery/orgmap.png)
 
 # Website
-[KloudRIS](http://envoyris.website)
+[KloudRIS](http://kloudris.com)
